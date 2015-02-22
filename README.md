@@ -1,4 +1,4 @@
-# awesome-android-ios-alternatives
+# Awesome Android iOS Alternatives
 A curated list of awesome (iOS/Android) frameworks, libraries, tutorials and components.
 
 ### Contents
@@ -18,3 +18,6 @@ A curated list of awesome (iOS/Android) frameworks, libraries, tutorials and com
 ### Networking
   * [Alamofire](https://github.com/Alamofire/Alamofire) (iOS) - Elegant HTTP Networking in Swift
   * [OkHttp](http://square.github.io/okhttp/) (Android) - An HTTP & SPDY client
+
+## Contributing
+[See the guide](https://github.com/alexandref93/awesome-android-ios-alternatives/blob/master/CONTRIBUTING.md)
