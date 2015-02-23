@@ -3,9 +3,16 @@ A curated list of awesome (iOS/Android) frameworks, libraries, tutorials and com
 
 ### Contents
   - Library and Frameworks
+      - [Animations](#animations)
       - [EventBus](#eventbus)
       - [Maps](#maps)
       - [Networking](#networking)
+
+### Animations
+  * [Spring](https://github.com/MengTo/Spring) (iOS) - A library to simplify iOS animations in Swift
+  * [pop](https://github.com/facebook/pop) (iOS) - An extensible iOS and OS X animation library, useful for physics-based interactions
+  * [Android View Animations](https://github.com/daimajia/AndroidViewAnimations) (Android) - Cute view animation collection
+  * [Rebound](https://github.com/facebook/rebound) (Android) - A Java library that models spring dynamics and adds real world physics to your app
 
 ### EventBus
   * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) (iOS) - SwiftEventBus is publish/subscribe event bus optimized for iOS
