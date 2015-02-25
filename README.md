@@ -8,7 +8,7 @@ A curated list of awesome (iOS/Android) frameworks, libraries, tutorials and com
       - [EventBus](#eventbus)
       - [Maps](#maps)
       - [Networking](#networking)
-      - [Tools Extra](#toolsextra)
+      - [Tools Extra](#tools-extra)
 
 ### Animations
   * [Spring](https://github.com/MengTo/Spring) (iOS) - A library to simplify iOS animations in Swift
