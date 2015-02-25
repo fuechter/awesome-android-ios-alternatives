@@ -8,6 +8,7 @@ A curated list of awesome (iOS/Android) frameworks, libraries, tutorials and com
       - [EventBus](#eventbus)
       - [Maps](#maps)
       - [Networking](#networking)
+      - [Tools Extra](#toolsextra
 
 ### Animations
   * [Spring](https://github.com/MengTo/Spring) (iOS) - A library to simplify iOS animations in Swift
@@ -30,6 +31,10 @@ A curated list of awesome (iOS/Android) frameworks, libraries, tutorials and com
 ### Networking
   * [Alamofire](https://github.com/Alamofire/Alamofire) (iOS) - Elegant HTTP Networking in Swift
   * [OkHttp](http://square.github.io/okhttp/) (Android) - An HTTP & SPDY client
+
+### Tools Extra
+  * [sketch-to-xcode-assets-catalog](https://github.com/GeertWille/sketch-to-xcode-assets-catalog) (iOS) - Export assets for iOS directly from Sketch into Xcodes assets catalog
+  * [Generate Android Assets](https://github.com/todoriliev/generate-android-assets) (Android) - Sketch plugin that automatically generates MDPI, HDPI, XHDPI, XXHDPI, and XXXHDPI Android assets
 
 ## Contributing
 [See the guide](https://github.com/alexandref93/awesome-android-ios-alternatives/blob/master/CONTRIBUTING.md)
